@@ -77,5 +77,5 @@ This project follows a modern **client-server architecture**:
 
 ## ✨ Made by  
 
-**Aayushi**  
-🎓 B.Tech in Computer Engineering | Data Science & AI Enthusiast  
+**Aayushi Soni**  
+🎓 B.Tech in Computer Engineering | Data Science & AI/ML Enthusiast  
